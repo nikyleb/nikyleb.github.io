@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Kreon&family=Open+Sans&display=swap');
+
+body {
+  text-align:center;
+  margin:1em;
+  background-color:#f6f6f6;
+  font-family:'Open Sans', sans-serif;
+}
+#portrait {
+  width:100%;
+  max-width:300px;
+  height:auto;
+  border-radius:50%;
+}
+h1 {
+  font-family:'Kreon', serif;
+}
